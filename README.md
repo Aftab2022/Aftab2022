@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aftab2022
+- 👋 Hi, I’m Aftab.
 - 👀 I’m interested in IT operational task related work
 - 🌱 I’m currently learning cloud & OS 
 - 💞️ I’m looking to collaborate on most of troubleshooting part.
